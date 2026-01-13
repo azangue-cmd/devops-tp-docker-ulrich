@@ -1,6 +1,5 @@
 # Utiliser une version spécifique (pas latest)
 FROM nginx:1.25.3-alpine
-USER root
 
 # Métadonnées
 LABEL maintainer="TP DevOps"
